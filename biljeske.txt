@@ -1,2 +1,4 @@
-status: nesto
+status: za pregled
 Ucim Git.
+Jovana.
+ovo je posebna grana.
