@@ -1,4 +1,4 @@
-status: za pregled
+status: zavrseno.
 Ucim Git.
 Jovana.
 ovo je posebna grana.
